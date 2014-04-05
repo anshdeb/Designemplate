@@ -7,3 +7,10 @@ Purpose
 =============
 
 Designemplate allows the developer to quickly develop small webpages without having to worry about aesthetics. They simply copy in Designemplate and they're good to go!
+
+How to use
+=============
+
+Using Designemplate is similar to writing your CSS yourself, just a lot easier and a lot quicker. Designemplate is a great tool for basic webpages or the starting point for a full blown site. You can design how things look (to a degree), without having to learn design. Designemplate has all the spacing, responsive design, colours, features and more. All you have to do, is tell it what you want.
+
+< Head over to the wiki for more... >
