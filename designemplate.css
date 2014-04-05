@@ -10,3 +10,15 @@
                		Copyright (c) 2014 Ben Watkins
 */
 
+@font-face {
+  font-family: 'Actor';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Actor Regular'), local('Actor-Regular'), url(http://themes.googleusercontent.com/static/fonts/actor/v4/SqA9OdmswJX8b4TrqlN76KCWcynf_cDxXwCLxiixG1c.woff) format('woff');
+}
+
+body{
+	background-color: #eaeaea;
+	font-family: 'Actor', sans-serif;
+	color: #2b2b2b;
+}
