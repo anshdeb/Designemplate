@@ -10,6 +10,11 @@
                		Copyright (c) 2014 Ben Watkins
 */
 
+/*
+Actor @font-face
+=====================================================================
+*/
+
 @font-face {
   font-family: 'Actor';
   font-style: normal;
@@ -17,8 +22,109 @@
   src: local('Actor Regular'), local('Actor-Regular'), url(http://themes.googleusercontent.com/static/fonts/actor/v4/SqA9OdmswJX8b4TrqlN76KCWcynf_cDxXwCLxiixG1c.woff) format('woff');
 }
 
+/*
+Basic
+=====================================================================
+*/
+
+*{
+	margin:0;
+	padding: 0;
+}
+
 body{
 	background-color: #eaeaea;
 	font-family: 'Actor', sans-serif;
+	color: #2b2b2b;
+}
+
+header h1{
+	padding: 20px;
+}
+
+h1{
+	font-size:1.6em;
+	font-weight: bold;
+}
+
+/*
+Background Colours
+=====================================================================
+*/
+
+.lightgreen{
+	background-color: #2ecc71;
+}
+
+.green{
+	background-color: #27ae60;
+}
+
+.lightblue{
+	background-color: #3498db;
+}
+
+.blue{
+	background-color: #2980b9;
+}
+
+.lightturquoise{
+	background-color: #1abc9c;
+}
+
+.turquoise{
+	background-color: #16a085;
+}
+
+.lightpurple{
+	background-color: #9b59b6;
+}
+
+.purple{
+	background-color: #8e44ad;
+}
+
+.lighterdarkblue{
+	background-color: #34495e;
+}
+
+.darkblue{
+	background-color: #2c3e50;
+}
+
+.yellow{
+	background-color: #f1c40f;
+}
+
+.lightorange{
+	background-color: #f39c12;
+}
+
+.orange{
+	background-color: #e67e22
+}
+
+.darkorange{
+	background-color: #d35400;
+}
+
+.lightred{
+	background-color: #e74c3c;
+}
+
+.red{
+	background-color: #c0392b;
+}
+
+/*
+Font Colours
+=====================================================================
+*/
+
+.font-white{
+	color: #ffffff;
+}
+
+.font-nearblack{
 	color: #2b2b2b;
 }
