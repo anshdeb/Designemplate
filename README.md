@@ -17,6 +17,8 @@ Getting started
 
 3) Copy both designemplate and the license into your project
 
+4) Link the stylesheet in your HTML document
+
 How to use
 =============
 
