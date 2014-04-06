@@ -38,7 +38,7 @@ body{
 	color: #2b2b2b;
 }
 
-header h1{
+header h1, footer h1{
 	font-weight: bold;
 }
 
@@ -55,7 +55,7 @@ Spacing
 =====================================================================
 */
 
-header h1, header h2, header h3, header h4, header h5, header h6, header p{
+header h1, header h2, header h3, header h4, header h5, header h6, header p, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer p{
 	padding: 40px;
 }
 
@@ -105,7 +105,7 @@ Alignment
 =====================================================================
 */
 
-header{
+header, footer, details{
 	overflow: auto;
 }
 
