@@ -15,7 +15,9 @@ Getting started
 
 2) Next, extract the zip and read through the licence (it's a MIT licence if you need to save time).
 
-3) Copy both designemplate and the license into your project
+3) Copy both designemplate and the licence into your project
+
+4) Link the stylesheet in your HTML document
 
 How to use
 =============
