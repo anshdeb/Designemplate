@@ -38,6 +38,10 @@ body{
 	color: #2b2b2b;
 }
 
+.italic{
+	font-style: italic;
+}
+
 header h1{
 	padding: 20px;
 }
@@ -121,10 +125,18 @@ Font Colours
 =====================================================================
 */
 
-.font-white{
+.font-white, .font-white a{
 	color: #ffffff;
 }
 
-.font-nearblack{
+.font-white, .font-white a:hover{
+	color: #e2e2e2;
+}
+
+.font-nearblack, .font-nearblack a{
 	color: #2b2b2b;
+}
+
+.font-nearblack, .font-nearblack a:hover{
+	color: #5a5a5a;
 }
