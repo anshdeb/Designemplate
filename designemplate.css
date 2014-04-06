@@ -39,7 +39,7 @@ body{
 }
 
 header h1, header h2, header h3, header h4, header h5, header h6, header p{
-	padding: 20px;
+	padding: 40px;
 }
 
 h1{
@@ -154,6 +154,14 @@ Background Colours
 	background-color: #c0392b;
 }
 
+.white{
+	background-color: #ffffff;
+}
+
+.nearwhite{
+	background-color: #d6d6d6;
+}
+
 /*
 Font Colours
 =====================================================================
@@ -167,10 +175,18 @@ Font Colours
 	color: #c4c4c4;
 }
 
+.font-nearwhite, .font-white a{
+	color: #e7e7e7;
+}
+
+.font-nearwhite a:hover{
+	color: #cecece;
+}
+
 .font-nearblack, .font-nearblack a{
-	color: #2b2b2b;
+	color: #4b4b4b;
 }
 
 .font-nearblack a:hover{
-	color: #5a5a5a;
+	color: #292929;
 }
