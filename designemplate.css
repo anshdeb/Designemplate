@@ -38,13 +38,45 @@ body{
 	color: #2b2b2b;
 }
 
+header h1{
+	font-weight: bold;
+}
+
+h1{
+	font-size:1.6em;
+}
+
+p{
+	width:70%;
+}
+
+/*
+Spacing
+=====================================================================
+*/
+
 header h1, header h2, header h3, header h4, header h5, header h6, header p{
 	padding: 40px;
 }
 
 h1{
-	font-size:1.6em;
-	font-weight: bold;
+	padding-left:40px;
+	padding-bottom:40px;
+}
+
+h2{
+	padding-left:40px;
+	padding-bottom:20px;
+}
+
+p{
+	padding-left:40px;
+	padding-bottom:10px;
+}
+
+.details{
+	padding-bottom:100px;
+	padding-top:100px;
 }
 
 /*
@@ -159,7 +191,7 @@ Background Colours
 }
 
 .nearwhite{
-	background-color: #d6d6d6;
+	background-color: #dedede;
 }
 
 /*
