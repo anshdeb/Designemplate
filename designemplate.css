@@ -222,3 +222,14 @@ Font Colours
 .font-nearblack a:hover{
 	color: #292929;
 }
+
+/*
+Media queries
+=====================================================================
+*/
+
+@media screen and (max-width:600px){
+	.right, .left{
+		float:none;
+	}
+}
