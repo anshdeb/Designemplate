@@ -38,10 +38,6 @@ body{
 	color: #2b2b2b;
 }
 
-header h1, footer h1{
-	font-weight: bold;
-}
-
 h1{
 	font-size:1.6em;
 }
@@ -126,6 +122,14 @@ p{
 Font styles and weights
 =====================================================================
 */
+
+header h1, footer h1{
+	font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-weight: initial;
+}
 
 .italic{
 	font-style: italic;
