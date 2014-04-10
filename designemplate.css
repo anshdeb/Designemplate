@@ -273,6 +273,14 @@ Background Colours
 	background-color: #dedede;
 }
 
+.blacK{
+	background-color: #000000;
+}
+
+.nearblack{
+	background-color: #202020
+}
+
 /*
 Font Colours
 =====================================================================
@@ -300,6 +308,14 @@ Font Colours
 
 .font-nearblack a:hover{
 	color: #292929;
+}
+
+.font-black, .font-black a{
+	color: #000000;
+}
+
+.font-black a:hover{
+	color: #242424;
 }
 
 /*
