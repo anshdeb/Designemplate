@@ -6,7 +6,7 @@ A stylish CSS template for rapid development.
 Purpose
 =============
 
-Ever needed to quickly develop a basic webpage? Ever needed to develop a basic "Under Maintinance" page? Designemplate allows the developer to quickly develop small webpages without having to worry about aesthetics. You simply copy in Designemplate, tell it what you want and you're good to go!
+Ever needed to quickly develop a basic webpage? Ever needed to develop a basic "Under Maintenance" page? Designemplate allows the developer to quickly develop small webpages without having to worry about aesthetics. You simply copy in Designemplate, tell it what you want and you're good to go!
 
 Getting started
 =============
