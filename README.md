@@ -3,6 +3,11 @@ Designemplate
 
 A stylish CSS template for rapid development.
 
+Release date
+=============
+
+Designemplate version 1.0 is to be released on the 25th of April 2014
+
 Purpose
 =============
 
@@ -11,13 +16,10 @@ Ever needed to quickly develop a basic webpage? Ever needed to develop a basic "
 Getting started
 =============
 
-1) To get started with Designemplate, first simply download a zip copy of this repo.
-
-2) Next, extract the zip and read through the licence (it's a MIT licence if you need to save time).
-
-3) Copy both designemplate and the licence into your project
-
-4) Link the stylesheet in your HTML document
+1. To get started with Designemplate, first simply download a zip copy of this repo.
+2. Next, extract the zip and read through the licence (it's a MIT licence if you need to save time).
+3. Copy both designemplate and the licence into your project
+4. Link the stylesheet in your HTML document
 
 How to use
 =============
@@ -26,3 +28,16 @@ Using Designemplate is similar to writing your CSS yourself, just a lot easier a
 
 < Head over to the wiki for more... >
 
+Features in the working
+=============
+
+- Improved responsive design
+- Improved footer
+- Improved header
+- Classes for articles
+- More colour options
+- Better documentation via the wiki
+- Classes for images
+- Improved demo site (designemplate.e-neb.co.uk)
+- Classes for buttons
+- Classes for forms
