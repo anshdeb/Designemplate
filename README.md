@@ -3,10 +3,12 @@ Designemplate
 
 A stylish CSS template for rapid development.
 
-Release date
+Release
 =============
 
-Designemplate version 1.0 is to be released at 11:00pm on the 25th of April 2014. At 6:00pm on the 25th of April, a hackathon style event will take place at http://www.koding.com/. More details will be released at 4:00pm.
+Designemplate version 1.0 is to be released at 11:00pm on the 25th of April 2014. At 6:00pm on the 25th of April, a hackathon style event will take place at https://koding.com/Teamwork?sessionKey=benwatkinsart_bive_43.
+
+Feel free to post any issues you find with the project here https://github.com/benwatkinsart/Designemplate/issues. We will work through fixing these durring our event.
 
 Purpose
 =============
