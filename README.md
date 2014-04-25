@@ -6,7 +6,7 @@ A stylish CSS template for rapid development.
 Release
 =============
 
-Designemplate version 1.0 is to be released at 11:00pm on the 25th of April 2014. At 6:00pm on the 25th of April, a hackathon style event will take place at https://koding.com/Teamwork?sessionKey=benwatkinsart_wizi_12.
+Designemplate version 1.0 is to be released at 11:00pm on the 25th of April 2014. At 6:00pm on the 25th of April, a hackathon style event will take place at https://koding.com/Teamwork?sessionKey=benwatkinsart_muqe_74.
 
 Feel free to post any issues you find with the project here https://github.com/benwatkinsart/Designemplate/issues. We will work through fixing these durring our event.
 
