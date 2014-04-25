@@ -6,7 +6,7 @@ A stylish CSS template for rapid development.
 Release date
 =============
 
-Designemplate version 1.0 is to be released on the 25th of April 2014
+Designemplate version 1.0 is to be released at 11:00pm on the 25th of April 2014. At 6:00pm on the 25th of April, a hackathon style event will take place at http://www.koding.com/. More details will be released at 4:00pm.
 
 Purpose
 =============
