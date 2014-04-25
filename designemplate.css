@@ -322,18 +322,129 @@ Font Colours
 	color: #2ecc71;
 }
 
+.font-lightgreen a:hover{
+	color: #229C56;
+}
+
 .font-green{
 	color: #27ae60;
+}
+
+.font-green a:hover{
+	color: #1F8C4D;
 }
 
 .font-lightblue{
 	color: #3498db;
 }
 
+.font-lightblue a:hover{
+	color: #1E7D46;
+}
+
 .font-blue{
 	color: #2980b9;
 }
 
+.font-blue a:hover{
+	color: #246E9E;
+}
+
+.font-lightturquoise{
+	color: #1abc9c;
+}
+
+.font-lightturquoise a:hover{
+	color: #169E83;
+}
+
+.font-turquoise{
+	color: #16a085;
+}
+
+.font-turquoise a:hover{
+	color: #13947B;
+}
+
+.font-lightpurple{
+	color: #9b59b6;
+}
+
+.font-lightpurple a:hover{
+	color: #854C9C;
+}
+
+.font-purple{
+	color: #8e44ad;
+}
+
+.font-purple a:hover{
+	color: #803E9C;
+}
+
+.font-lighterdarkblue{
+	color: #34495e;
+}
+
+.font-lighterdarkblue a:hover{
+	color: #2B3D4F;
+}
+
+.font-darkblue{
+	color: #2c3e50;
+}
+
+.font-darkblue a:hover{
+	color: #1C2833;
+}
+
+.font-yellow{
+	color: #f1c40f;
+}
+
+.font-yellow a:hover{
+	color: #D1AC19;
+}
+
+.font-lightorange{
+	color: #f39c12;
+}
+
+.font-lightorange a:hover{
+	color: #D4880F;
+}
+
+.font-orange{
+	color: #e67e22;
+}
+
+.font-orange a:hover{
+	color: #C46B1B;
+}
+
+.font-darkorange{
+	color: #d35400;
+}
+
+.font-darkorange a:hover{
+	color: #C74F00;
+}
+
+.font-lightred{
+	color: #e74c3c;
+}
+
+.font-lightred a:hover{
+	color: #C43F31;
+}
+
+.font-red{
+	color: #c0392b;
+}
+
+.font-red a:hover{
+	color: #B33629;
+}
 
 /*
 Media queries
