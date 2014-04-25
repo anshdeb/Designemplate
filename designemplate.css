@@ -318,6 +318,23 @@ Font Colours
 	color: #242424;
 }
 
+.font-lightgreen{
+	color: #2ecc71;
+}
+
+.font-green{
+	color: #27ae60;
+}
+
+.font-lightblue{
+	color: #3498db;
+}
+
+.font-blue{
+	color: #2980b9;
+}
+
+
 /*
 Media queries
 =====================================================================
